@@ -10,3 +10,7 @@ Original file is located at
 def hello():
   print("Hello World")
 
+def PyData():
+  print("yay")
+
+
