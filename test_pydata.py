@@ -13,4 +13,7 @@ def hello():
 def PyData():
   print("yay")
 
+  def printo():
+    print("i love Abeer")
+
 
